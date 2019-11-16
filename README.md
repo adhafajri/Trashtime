@@ -7,3 +7,7 @@ The game is about collecting all of the thrashes while dodging all of the obstac
 
 <h1><b>How To Play</b></h1>
 You can go download the game from the installer folder and install the game.
+
+<h1><b>Trailer</b></h1>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jCj_IE6A_F8
+" target="_blank"><img src="https://img.youtube.com/vi/jCj_IE6A_F8/maxresdefault.jpg" width="240" height="180" border="10" /></a>
